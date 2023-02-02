@@ -3,8 +3,8 @@ AOA, This is a Face and Eye Detection Tool written in Python Language.
 
 Requirments:
 
-               1)Install python 3.11 on your pc.
-               2)Install python libraries that are required for the execution of the project.
+               1) Install python 3.11 on your pc.
+               2) Install python libraries that are required for the execution of the project.
                3) Pycharm IDE
                4) Latest Interpretor
                5) cv2 (type in python console "pip install opencv-python"
